@@ -16,4 +16,4 @@ Skrip ini mengatasi masalah umum pada instalasi otomatis, seperti *error D-Bus* 
 Jalankan perintah berikut di terminal Ubuntu Anda:
 
 ```bash
-curl -sL [https://raw.githubusercontent.com/lxcoding06/vscode-auto/main/install-ide.sh](https://raw.githubusercontent.com/lxcoding06/vscode-auto/main/install-ide.sh) | bash
+curl -sL https://raw.githubusercontent.com/lxcoding06/vscode-auto/main/install-ide.sh | bash
